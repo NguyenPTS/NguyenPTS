@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on full-stack projects using NestJS and NextJS  
 - 🌱 Learning more about clean architecture and DevOps  
 - 💬 Ask me about React, NestJS, NextJS, or Docker  
-- 📫 Contact: nguyenpts.dev@gmail.com  
+- 📫 Contact: nguyenpts2003@gmail.com  
 
 ---
 
